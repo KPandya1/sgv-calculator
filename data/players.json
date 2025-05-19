@@ -1,0 +1,27 @@
+{
+  "Michael Jordan": {
+    "MVPs": 5,
+    "DPOYs": 1,
+    "All_Stars": 14,
+    "All_NBA_First": 10,
+    "ROTY": 1,
+    "Scoring_Titles": 10,
+    "Assist_Titles": 0,
+    "Rebound_Titles": 0,
+    "Finals_MVPs": 6,
+    "Championships": 6
+  },
+  "LeBron James": {
+    "MVPs": 4,
+    "DPOYs": 0,
+    "All_Stars": 20,
+    "All_NBA_First": 13,
+    "ROTY": 1,
+    "Scoring_Titles": 1,
+    "Assist_Titles": 1,
+    "Rebound_Titles": 0,
+    "Finals_MVPs": 4,
+    "Championships": 4
+  }
+  
+}
